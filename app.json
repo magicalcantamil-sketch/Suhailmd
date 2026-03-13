@@ -1,0 +1,19 @@
+{
+  "name": "suhail-md",
+  "description": "Suhail MD WhatsApp Bot",
+  "keywords": ["whatsapp","bot","suhail-md"],
+  "env": {
+    "SESSION_ID": {
+      "description": "Put your SESSION ID",
+      "required": true
+    },
+    "OWNER_NUMBER": {
+      "description": "Owner number",
+      "value": "94700000000"
+    },
+    "PREFIX": {
+      "description": "Bot prefix",
+      "value": "."
+    }
+  }
+  }
